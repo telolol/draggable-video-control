@@ -1,68 +1,59 @@
-# ⏱️ Expo World Clock
+# ▶️ Draggable Video Controls
 
-A smooth, interactive world clock experience built with:
+A smooth, interactive video player UI built with:
 
-- [Expo](https://expo.dev/)
-- [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [Expo](https://expo.dev)
+- [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated)
+- [expo-glass-effect](https://docs.expo.dev/versions/latest/sdk/glass-effect)
+- [react-native-gesture-handler](https://docs.swmansion.com/react-native-gesture-handler)
 
-This project lets you slide through time across multiple cities and watch each clock hand rotate in perfect sync — smooth, responsive, and fully UI-thread powered.
-
+This project features a draggable play button that reveals previous/next skip controls as you move it — powered fully on the UI thread for buttery animations.
 
 
 ## 📸 Preview
 
-https://github.com/user-attachments/assets/79e28ff0-ebf4-42f5-9d55-03a6c76c537b
-
+<p align="center">
+  <img src="https://github.com/mahdidavoodi7/draggable-video-control/blob/main/preview.gif?raw=true" alt="Preview" />
+</p>
 
 
 
 ## 🚀 Features
 
-• Interactive time sliding with a Swift-UI–style slider
-
-• Smooth hour-hand rotation using Reanimated
-
-• Animated AM/PM color transitions
-
-• Multiple world timezones
-
-• Glass-effect control panel
-
-• Reset button with synchronized clock animations
-
-• Fully 60fps
-
-• Runs great on both iOS and Android
-
+• Draggable play button with physics based gestures  
+• Skip forward/backward buttons that detach when dragging  
+• Smooth spring animations  
+• Glass-style UI inspired by iOS controls  
+• Fullscreen background video using `expo-video`  
+• Fully 60fps and UI-thread driven  
+• Works on both iOS and Android
 
 
 
 ## 🛠️ Usage
 
-```
-git clone https://github.com/your-username/expo-world-clock.git
-cd expo-world-clock
+```sh
+git clone https://github.com/your-username/expo-draggable-video-player.git
+cd expo-draggable-video-player
 npm install
 npx expo run:ios
+
+Or for Android:
+
+npx expo run:android
 ```
 
 
 ## 💡 Inspiration
 
-Inspired by an app called **Ora**, and by the idea of visualizing time differences in a playful, animated way — where each timezone feels alive and interactive.
-
-
+Inspired by playful drag interactions in CreateWithPlay App, especially the fluid feel of iOS system controls.
 
 ## 🙏 Credits
 
-• Software Mansion for Reanimated
-
-• Expo team for expo/ui and GlassView
-
-
+• Expo team for expo-video and expo-glass-effect
+• Software Mansion for Reanimated + Gesture Handler
+• Apple SF Symbols for the icons
 
 ## 📄 License
 
-MIT — feel free to fork, remix, and build your own time-based magic.
-
-
+MIT — feel free to fork, modify, and build something cool with it.
